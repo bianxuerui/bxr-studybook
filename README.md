@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-03 17:24:51
+ * @LastEditTime: 2021-11-03 21:22:26
 -->
 
 # 学习手册
@@ -20,6 +20,8 @@
   + 2021.11.02 插入排序
     + 代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-01algorithm/insertionSort.js)
     + B站视频  [地址](https://www.bilibili.com/video/BV1dR4y177fC?spm_id_from=333.999.0.0)
-  + 2021.11.03 冒泡排序
-    + 代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-02algorithm/bubblingSort.js)
-    + B站视频  [地址](https://www.bilibili.com/video/BV1KS4y1d7MT?spm_id_from=333.999.0.0)
+  + 2021.11.03 算法训练
+    + 冒泡排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-02algorithm/bubblingSort.js)
+    + 冒泡排序-B站视频  [地址](https://www.bilibili.com/video/BV1KS4y1d7MT?spm_id_from=333.999.0.0)
+    + 快速排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-02algorithm/quickSort.js)
+    + _栈_有效的括号-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-03algorithm/01.js)
