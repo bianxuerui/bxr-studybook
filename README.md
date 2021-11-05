@@ -26,4 +26,4 @@
     + 快速排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-02algorithm/quickSort.js)
     + _栈_有效的括号-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-03algorithm/01.js)
   + 2021.11.05 算法训练
-    + 堆排序=代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-05algorithm/heapSort.js)
+    + 堆排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-05algorithm/heapSort.js)
