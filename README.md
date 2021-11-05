@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-03 21:26:32
+ * @LastEditTime: 2021-11-05 17:50:45
 -->
 
 # 学习手册
@@ -25,3 +25,5 @@
     + 冒泡排序-B站视频 [🔗地址](https://www.bilibili.com/video/BV1KS4y1d7MT?spm_id_from=333.999.0.0)
     + 快速排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-02algorithm/quickSort.js)
     + _栈_有效的括号-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-03algorithm/01.js)
+  + 2021.11.05 算法训练
+    + 堆排序=代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-05algorithm/heapSort.js)
