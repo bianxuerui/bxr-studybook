@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-05 17:50:45
+ * @LastEditTime: 2021-11-06 22:08:34
 -->
 
 # 学习手册
@@ -27,3 +27,4 @@
     + _栈_有效的括号-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-03algorithm/01.js)
   + 2021.11.05 算法训练
     + 堆排序-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-05algorithm/heapSort.js)
+    + 堆排序-B站视频 [🔗地址](https://space.bilibili.com/253657021/dynamic)
