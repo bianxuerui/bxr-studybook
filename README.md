@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-08 09:24:31
+ * @LastEditTime: 2021-11-09 14:17:35
 -->
 
 # 学习手册
@@ -30,3 +30,7 @@
     + 堆排序-B站视频 [🔗地址](https://space.bilibili.com/253657021/dynamic)
   + 2021.11.07 算法训练
     + 有效的括号-B站视频 [🔗地址](https://www.bilibili.com/video/BV12q4y1r7np?spm_id_from=333.999.0.0)
+  + 2021.11.08 算法训练
+    + 环形链表-B站视频 [🔗地址](https://www.bilibili.com/video/BV12Q4y1m7zz?spm_id_from=333.999.0.0)
+  + 2021.11.09 算法训练
+    + 反转链表-B站视频 [🔗地址](https://www.bilibili.com/video/BV1mg411K7Mh?spm_id_from=333.999.0.0)
