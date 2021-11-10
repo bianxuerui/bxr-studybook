@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-10 17:56:54
+ * @LastEditTime: 2021-11-10 20:32:17
 -->
 
 # 学习手册
@@ -38,6 +38,8 @@
     + 反转链表-掘金 [🔗地址](https://juejin.cn/post/7028830452681015333)
     + 环形链表-掘金 [🔗地址](https://juejin.cn/post/7028838646270672903)
     + 从尾到头打印链表-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/01.js)
-    + 返回倒数第 k 个节点-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/02.js)
+    + 返回倒数第k个节点-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/02.js)
     + 环形链表-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/annulusList.js)
     + 反转链表-代码  [地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/reversalList.js)
+    + 从尾到头打印链表-B站视频 [🔗地址](https://www.bilibili.com/video/BV1K3411C7Qs/)
+    + 返回倒数第k个节点-B站视频 [🔗地址](https://www.bilibili.com/video/BV13L411u7FK/)
