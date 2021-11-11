@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-11 17:42:03
+ * @LastEditTime: 2021-11-11 17:46:56
 -->
 
 # 学习手册
@@ -36,5 +36,5 @@
     + 从尾到头打印链表-代码 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/01.js) [B站地址](https://www.bilibili.com/video/BV1K3411C7Qs/)
     + 返回倒数第k个节点-代码 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/02.js) [B站地址](https://www.bilibili.com/video/BV13L411u7FK/)
   + 2021.11.11 算法训练
-    + 只出现一次的数字 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-10algorithm/annulusList.js)
-    + 合并两个有序链表 [掘金地址](https://juejin.cn/post/7029230463357026341)
+    + 只出现一次的数字 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-11algorithm/01.js)
+    + 合并两个有序链表 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-11algorithm/02.js) [掘金地址](https://juejin.cn/post/7029230463357026341)
