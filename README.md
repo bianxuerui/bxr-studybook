@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-12 23:32:36
+ * @LastEditTime: 2021-11-13 22:15:18
 -->
 
 # 学习手册
@@ -40,3 +40,5 @@
     + 合并两个有序链表 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-11algorithm/02.js) [掘金地址](https://juejin.cn/post/7029230463357026341)
   + 2021.11.12 算法训练
     + 只出现一次的数字 [B站视频](https://www.bilibili.com/video/BV1wr4y1k77w?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7029593054541512712)
+  + 2021.11.13 算法训练
+    + 有效的括号 [掘金地址](https://juejin.cn/post/7030057430063480839)
