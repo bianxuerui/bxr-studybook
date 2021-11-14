@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-13 22:15:18
+ * @LastEditTime: 2021-11-14 22:32:50
 -->
 
 # 学习手册
@@ -42,3 +42,5 @@
     + 只出现一次的数字 [B站视频](https://www.bilibili.com/video/BV1wr4y1k77w?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7029593054541512712)
   + 2021.11.13 算法训练
     + 有效的括号 [掘金地址](https://juejin.cn/post/7030057430063480839)
+  + 2021.11.14 算法训练
+    + 平方数之和 [Git代码](https://github.com/BianXuerui/myLearn/blob/main/11-14algorithm/01.js) [掘金地址](https://juejin.cn/post/7030057430063480839) [B站地址](https://www.bilibili.com/video/BV1VR4y1t73z?spm_id_from=333.999.0.0)
