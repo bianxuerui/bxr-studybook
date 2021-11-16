@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-15 21:59:23
+ * @LastEditTime: 2021-11-16 17:43:32
 -->
 
 # 学习手册
@@ -46,3 +46,5 @@
     + 平方数之和 [Git代码](https://github.com/BianXuerui/myLearn/blob/main/11-14algorithm/01.js) [掘金地址](https://juejin.cn/post/7030057430063480839) [B站地址](https://www.bilibili.com/video/BV1VR4y1t73z?spm_id_from=333.999.0.0)
   + 2021.11.15 算法训练
     + 归并排序 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-15algotithm/01.js)
+  + 2021.11.16 算法训练
+    + 买卖股票的最佳时机 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-16algorithm/01.js) [掘金地址](https://juejin.cn/post/7031099866331906079)
