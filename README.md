@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-16 17:43:32
+ * @LastEditTime: 2021-11-17 21:59:26
 -->
 
 # 学习手册
@@ -48,3 +48,6 @@
     + 归并排序 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-15algotithm/01.js)
   + 2021.11.16 算法训练
     + 买卖股票的最佳时机 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-16algorithm/01.js) [掘金地址](https://juejin.cn/post/7031099866331906079)
+  + 2021.11.17 算法训练
+    + 买卖股票的最佳时机 [B站视频](https://www.bilibili.com/video/BV1Mg411T7va/)
+    + 快乐数 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-17algorithm/03.js) [掘金地址](https://juejin.cn/post/7031456488795471902) [B站地址](https://www.bilibili.com/video/BV1e341187dU?spm_id_from=333.999.0.0)
