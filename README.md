@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-17 21:59:26
+ * @LastEditTime: 2021-11-18 21:58:14
 -->
 
 # 学习手册
@@ -51,3 +51,5 @@
   + 2021.11.17 算法训练
     + 买卖股票的最佳时机 [B站视频](https://www.bilibili.com/video/BV1Mg411T7va/)
     + 快乐数 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-17algorithm/03.js) [掘金地址](https://juejin.cn/post/7031456488795471902) [B站地址](https://www.bilibili.com/video/BV1e341187dU?spm_id_from=333.999.0.0)
+  + 2021.11.18 算法训练
+    + 二叉树的直径 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-18algorithm/01.js)
