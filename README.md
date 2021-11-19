@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-18 21:58:14
+ * @LastEditTime: 2021-11-19 22:25:26
 -->
 
 # 学习手册
@@ -53,3 +53,5 @@
     + 快乐数 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-17algorithm/03.js) [掘金地址](https://juejin.cn/post/7031456488795471902) [B站地址](https://www.bilibili.com/video/BV1e341187dU?spm_id_from=333.999.0.0)
   + 2021.11.18 算法训练
     + 二叉树的直径 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-18algorithm/01.js)
+  + 2021.11.19 算法训练
+    + 有效的字母异位词 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-19algorithm/01.js)
