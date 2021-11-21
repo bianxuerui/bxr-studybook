@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-20 22:53:45
+ * @LastEditTime: 2021-11-21 22:40:08
 -->
 
 # 学习手册
@@ -57,3 +57,6 @@
     + 有效的字母异位词 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-19algorithm/01.js)
   + 2021.11.20 算法训练
     + 二叉树的直径 [掘金地址](https://juejin.cn/post/7032589018223247367)
+  + 2021.11.20 算法训练
+    + 有效的字母异位词 [B站地址](https://www.bilibili.com/video/BV1kP4y1G7iP?spm_id_from=333.999.0.0)
+    + 二叉树的直径 [B站地址](https://www.bilibili.com/video/BV1PY41147Yk?spm_id_from=333.999.0.0)
