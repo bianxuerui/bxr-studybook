@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-21 22:40:08
+ * @LastEditTime: 2021-11-22 17:53:08
 -->
 
 # 学习手册
@@ -60,3 +60,6 @@
   + 2021.11.21 算法训练
     + 有效的字母异位词 [B站地址](https://www.bilibili.com/video/BV1kP4y1G7iP?spm_id_from=333.999.0.0)
     + 二叉树的直径 [B站地址](https://www.bilibili.com/video/BV1PY41147Yk?spm_id_from=333.999.0.0)
+  + 2021.11.22 算法训练
+    + 最长回文串 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-22algorithm/01.js) [B站地址](https://www.bilibili.com/video/BV1S34y1d72B?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7033284652357910559)
+    + 翻转二叉树 [Git地址](https://github.com/BianXuerui/myLearn/blob/main/11-22algorithm/02.js) [B站地址](https://www.bilibili.com/video/BV1fb4y1t7cS?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7033317538142371877)
