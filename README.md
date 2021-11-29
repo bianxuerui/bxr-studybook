@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-28 13:45:08
+ * @LastEditTime: 2021-11-29 20:49:52
 -->
 
 # 学习手册
@@ -71,3 +71,5 @@
     - 两两交换链表中的节点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-26algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1y34y197Y6?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7034807439081865230)
   - 2021.11.27 算法训练
     - 合并 K 个升序链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-27algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wR4y147B1?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7035490777769705479)
+  - 2021.11.29 算法训练
+    - 二叉树的后序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-29algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wR4y147B1?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7035969572259758087/)
