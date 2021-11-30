@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-29 20:49:52
+ * @LastEditTime: 2021-11-30 22:15:56
 -->
 
 # 学习手册
@@ -73,3 +73,6 @@
     - 合并 K 个升序链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-27algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wR4y147B1?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7035490777769705479)
   - 2021.11.29 算法训练
     - 二叉树的后序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-29algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wR4y147B1?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7035969572259758087/)
+  - 2021.11.30 算法训练
+    - 验证二叉树的前序序列化 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-30algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV19R4y147nw?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7036244016068821023)
+    - 基本计算器|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-30algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1Zb4y1B7gx?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7036285819715321892)
