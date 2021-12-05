@@ -4,7 +4,7 @@
  * @作者: 卞雪瑞
  * @Date: 2021-11-01 16:03:58
  * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-11-30 22:15:56
+ * @LastEditTime: 2021-12-03 19:32:38
 -->
 
 # 学习手册
@@ -76,3 +76,7 @@
   - 2021.11.30 算法训练
     - 验证二叉树的前序序列化 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-30algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV19R4y147nw?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7036244016068821023)
     - 基本计算器|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/11-30algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1Zb4y1B7gx?spm_id_from=333.999.0.0) [掘金地址](https://juejin.cn/post/7036285819715321892)
+  - 2021.12.03 算法训练
+    - 环形链表|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-03algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1FL4y1W7NA?spm_id_from=333.999.0.0)
+  - 2021.12.04 Webpack
+    - Bundle 原理学习实现 [Git 地址](https://github.com/BianXuerui/writeSourceCode/tree/main/webpack-bundle-mini)
