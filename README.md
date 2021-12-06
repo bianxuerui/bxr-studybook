@@ -1,12 +1,3 @@
-<!--
- * @文件描述:
- * @公司: 漫蝌网
- * @作者: 卞雪瑞
- * @Date: 2021-11-01 16:03:58
- * @LastEditors: 卞雪瑞
- * @LastEditTime: 2021-12-03 19:32:38
--->
-
 # 学习手册
 
 > 全程记录自己的学习过程
@@ -80,3 +71,5 @@
     - 环形链表|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-03algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1FL4y1W7NA?spm_id_from=333.999.0.0)
   - 2021.12.04 Webpack
     - Bundle 原理学习实现 [Git 地址](https://github.com/BianXuerui/writeSourceCode/tree/main/webpack-bundle-mini)
+  - 2021.12.05 React
+    - Context-组件跨层级通信 [Git 地址](https://github.com/BianXuerui/myLearn/tree/main/React/react-context) [掘金地址](https://juejin.cn/post/7038390892369018894/)
