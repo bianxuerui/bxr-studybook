@@ -75,4 +75,7 @@
     - Context-组件跨层级通信 [Git 地址](https://github.com/BianXuerui/myLearn/tree/main/React/react-context) [掘金地址](https://juejin.cn/post/7038390892369018894/)
   - 2021.12.07 算法训练
     - 反转链表|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-07algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1th411x74k?spm_id_from=333.999.0.0)
-    - 删除链表的倒数第 N 个结点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-07algorithm/02.js) [B 站地址](https://space.bilibili.com/253657021)
+    - 删除链表的倒数第 N 个结点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-07algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1Yh411x7F1?spm_id_from=333.999.0.0)
+  - 2021.12.08 算法训练
+    - 删除排序链表中的重复元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-08algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1bh411x72b?spm_id_from=333.999.0.0)
+    - 删除排序链表中的重复元素 II [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-08algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV15M4y1A7JX?spm_id_from=333.999.0.0)
