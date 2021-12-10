@@ -1,6 +1,6 @@
 # 学习手册 📝
 
-> Good Good Wtudy Day Day Up ! 🚀🚀🚀
+> Good Good Study Day Day Up ! 🚀🚀🚀
 
 ## 2021
 
