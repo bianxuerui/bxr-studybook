@@ -6,7 +6,7 @@
 
 **十二月**
 
-- 📅 09 算法训练
+- 09 算法训练
   - [x] 分隔链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-09algorithm/01.js) [B 站地址](https://space.bilibili.com/253657021)
 - 08 算法训练
   - [x] 删除排序链表中的重复元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-08algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1bh411x72b?spm_id_from=333.999.0.0)
