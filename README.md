@@ -6,21 +6,21 @@
 
 **十二月**
 
-- 10, 12 算法训练
+- 10 算法训练
   - [x] 设计循环队列 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-10algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1kh411x7yi/)
-- 09, 12 算法训练
+- 09 算法训练
   - [x] 分隔链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-09algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1634y1X772/)
-- 08, 12 算法训练
+- 08 算法训练
   - [x] 删除排序链表中的重复元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-08algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1bh411x72b?spm_id_from=333.999.0.0)
   - [x] 删除排序链表中的重复元素 II [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-08algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV15M4y1A7JX?spm_id_from=333.999.0.0)
-- 07, 12 算法训练
+- 07 算法训练
   - [x] 反转链表|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-07algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1th411x74k?spm_id_from=333.999.0.0)
   - [x] 删除链表的倒数第 N 个结点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-07algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1Yh411x7F1?spm_id_from=333.999.0.0)
-- 05, 12 React
+- 05 React
   - [x] Context-组件跨层级通信 [Git 地址](https://github.com/BianXuerui/myLearn/tree/main/React/react-context) [掘金地址](https://juejin.cn/post/7038390892369018894/)
-- 04, 12 Webpack
+- 04 Webpack
   - [x] Bundle 原理学习实现 [Git 地址](https://github.com/BianXuerui/writeSourceCode/tree/main/webpack-bundle-mini)
-- 03, 12 算法训练
+- 03 算法训练
   - [x] 环形链表|| [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-03algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1FL4y1W7NA?spm_id_from=333.999.0.0)
 
 **十一月**
