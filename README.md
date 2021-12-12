@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 12 算法训练
+  - [x] 最近的请求次数 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-12algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Q3411s7bH?spm_id_from=333.999.0.0)
 - 11 算法训练
   - [x] 设计循环双端队列 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-11algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV12S4y1D7Z1?spm_id_from=333.999.0.0)
   - [x] 设计前中后队列 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-11algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1vF411z7SQ?spm_id_from=333.999.0.0)
