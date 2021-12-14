@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 13 算法训练
+  - [x] 环路检测 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-13algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1jU4y1K7HQ?spm_id_from=333.999.0.0)
 - 12 算法训练
   - [x] 最近的请求次数 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-12algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Q3411s7bH?spm_id_from=333.999.0.0)
 - 11 算法训练
