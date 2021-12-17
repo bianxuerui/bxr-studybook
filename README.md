@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 17 算法训练
+  - [x] 任务调度器 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-17algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wr4y1Q7qw?spm_id_from=333.999.0.0)
 - 16 算法训练
   - [x] 煎饼排序 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-16algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1834y167Cx?spm_id_from=333.999.0.0)
 - 15 算法训练
