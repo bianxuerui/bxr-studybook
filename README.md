@@ -6,6 +6,10 @@
 
 **十二月**
 
+- 18 算法训练
+  - [x] 化栈为队 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-18algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1ZL4y1J7K3?spm_id_from=333.999.0.0)
+  - [x] 棒球比赛 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-18algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV15a411k7xK?spm_id_from=333.999.0.0)
+  - [x] 比较含退格的字符串 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-18algorithm/03.js) [B 站地址](https://www.bilibili.com/video/BV13R4y1W7Qt?spm_id_from=333.999.0.0)
 - 17 算法训练
   - [x] 任务调度器 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-17algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1wr4y1Q7qw?spm_id_from=333.999.0.0)
 - 16 算法训练
