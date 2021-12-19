@@ -6,6 +6,9 @@
 
 **十二月**
 
+- 19 算法训练
+  - [x] 验证栈序列 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-19algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1yU4y1K7Av?spm_id_from=333.999.0.0)
+  - [x] 删除最外层的括号 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-19algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1t34y197Po?spm_id_from=333.999.0.0)
 - 18 算法训练
   - [x] 化栈为队 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-18algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1ZL4y1J7K3?spm_id_from=333.999.0.0)
   - [x] 棒球比赛 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-18algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV15a411k7xK?spm_id_from=333.999.0.0)
