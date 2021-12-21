@@ -6,6 +6,10 @@
 
 **十二月**
 
+- 21 算法训练
+  - [x] 重排链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-21algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1qS4y1Q7HR?spm_id_from=333.999.0.0)
+  - [x] 移除无效的括号 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-21algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1RZ4y1Q7aw?spm_id_from=333.999.0.0)
+  - [x] 设计链表（单向链表） [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-21algorithm/03.js) [B 站地址](https://www.bilibili.com/video/BV1fg411w7Cb?spm_id_from=333.999.0.0)
 - 20 算法训练
   - [x] 复杂链表的复制 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-20algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1j44y1J7R1?spm_id_from=333.999.0.0)
   - [x] 删除中间节点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-20algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1p3411x7FK?spm_id_from=333.999.0.0)
