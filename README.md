@@ -6,6 +6,9 @@
 
 **十二月**
 
+- 22 算法训练
+  - [x] 剑指 Offer18.删除链表的节点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-22algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1VM4y1w76J?spm_id_from=333.999.0.0)
+  - [x] 分隔链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-22algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1AY411p7is?spm_id_from=333.999.0.0)
 - 21 算法训练
   - [x] 重排链表 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-21algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1qS4y1Q7HR?spm_id_from=333.999.0.0)
   - [x] 移除无效的括号 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-21algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1RZ4y1Q7aw?spm_id_from=333.999.0.0)
