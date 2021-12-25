@@ -6,6 +6,9 @@
 
 **十二月**
 
+- 25 算法训练
+  - [x] 779. 第 K 个语法符号 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-25algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Ri4y197dd?spm_id_from=333.999.0.0)
+  - [x] 222. 完全二叉树的节点个数 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-25algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1zL4y1n7ih?spm_id_from=333.999.0.0)
 - 24 算法训练
   - [x] 从前序与中序遍历序列构造二叉树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-24algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV16P4y1H7iC?spm_id_from=333.999.0.0)
 - 23 算法训练
