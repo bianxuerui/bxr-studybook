@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 24 算法训练
+  - [x] 从前序与中序遍历序列构造二叉树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-24algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV16P4y1H7iC?spm_id_from=333.999.0.0)
 - 23 算法训练
   - [x] 剑指 Offer 10- I. 斐波那契数列 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-23algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1gF411B7hC?spm_id_from=333.999.0.0)
   - [x] 路径总和 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-23algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1pD4y1c7eZ?spm_id_from=333.999.0.0)
