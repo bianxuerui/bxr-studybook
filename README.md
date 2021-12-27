@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 27 算法训练
+  - [x] 144. 二叉树的前序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-27algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV15a411r7YV?spm_id_from=333.999.0.0)
 - 26 算法训练
   - [x] 剑指 Offer 54. 二叉搜索树的第 k 大节点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-26algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1TM4y1w7N6?spm_id_from=333.999.0.0)
   - [x] 剑指 Offer 26. 树的子结构 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-26algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1Lm4y197uz?spm_id_from=333.999.0.0)
