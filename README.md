@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 28 算法训练
+  - [x] 589. N 叉树的前序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-28algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Za41167AC?spm_id_from=333.999.0.0)
 - 27 算法训练
   - [x] 144. 二叉树的前序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-27algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV15a411r7YV?spm_id_from=333.999.0.0)
 - 26 算法训练
