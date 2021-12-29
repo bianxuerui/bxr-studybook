@@ -6,6 +6,8 @@
 
 **十二月**
 
+- 29 算法训练
+  - [x] 剑指 Offer 32 - II. 从上到下打印二叉树 II [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-29algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Tu411D7AJ?spm_id_from=333.999.0.0)
 - 28 算法训练
   - [x] 589. N 叉树的前序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/12-28algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Za41167AC?spm_id_from=333.999.0.0)
 - 27 算法训练
