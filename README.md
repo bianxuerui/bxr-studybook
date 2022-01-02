@@ -2,6 +2,11 @@
 
 > Good Good Study Day Day Up ! 🚀🚀🚀
 
+## 2022
+
+**一月**
+- 02 算法训练
+  - [x] 103. 二叉树的锯齿形层序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-02algorithm/01.js) [B 站地址](https://space.bilibili.com/253657021)
 ## 2021
 
 **十二月**
