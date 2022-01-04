@@ -11,7 +11,7 @@
   - [x] 剑指 Offer 40. 最小的 k 个数 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-04algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1uS4y1T7Sa?spm_id_from=333.999.0.0)
   - [x] 1046. 最后一块石头的重量 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-04algorithm/03.js) [B 站地址](https://www.bilibili.com/video/BV19Z4y1U786?spm_id_from=333.999.0.0)
 - 02 算法训练
-  - [x] 103. 二叉树的锯齿形层序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-02algorithm/01.js) [B 站地址](https://space.bilibili.com/253657021)
+  - [x] 103. 二叉树的锯齿形层序遍历 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-04algorithm/01.js) [B 站地址](https://space.bilibili.com/253657021)
 
 ## 2021
 
