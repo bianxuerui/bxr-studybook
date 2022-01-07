@@ -7,8 +7,8 @@
 **一月**
 
 - 07 算法训练
-  - [x] 703. 数据流中的第 K 大元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-07algorithm/01.js)
-- 06 算法训练 [B 站地址](https://www.bilibili.com/video/BV1Zm4y1S78a?spm_id_from=333.999.0.0)
+  - [x] 703. 数据流中的第 K 大元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-07algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Zm4y1S78a?spm_id_from=333.999.0.0)
+- 06 算法训练
   - [x] 215. 数组中的第 K 个最大元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-06algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1nD4y1F77j?spm_id_from=333.999.0.0)
   - [x] 692. 前 K 个高频单词 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-06algorithm/02.js) [B 站地址](https://space.bilibili.com/253657021)
 - 05 算法训练
