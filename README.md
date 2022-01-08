@@ -6,6 +6,8 @@
 
 **一月**
 
+- 08 算法训练
+  - [x] 面试题 17.20. 连续中值 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-08algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1bS4y1Z7p4?spm_id_from=333.999.0.0)
 - 07 算法训练
   - [x] 703. 数据流中的第 K 大元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-07algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1Zm4y1S78a?spm_id_from=333.999.0.0)
 - 06 算法训练
