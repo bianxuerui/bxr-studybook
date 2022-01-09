@@ -6,6 +6,10 @@
 
 **一月**
 
+- 09 算法训练
+  - [x] 1753. 移除石子的最大得分 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-09algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1AS4y1j7qd?spm_id_from=333.999.0.0)
+  - [x] 264. 丑数 II [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-09algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1pT4y1m7Hx?spm_id_from=333.999.0.0)
+  - [x] 313. 超级丑数 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-09algorithm/03.js) [B 站地址](https://www.bilibili.com/video/BV19b4y1n7tM?spm_id_from=333.999.0.0)
 - 08 算法训练
   - [x] 面试题 17.20. 连续中值 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-08algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1bS4y1Z7p4?spm_id_from=333.999.0.0)
 - 07 算法训练
