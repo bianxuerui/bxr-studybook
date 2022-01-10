@@ -6,6 +6,11 @@
 
 **一月**
 
+- 10 算法训练
+  - [x] 104. 二叉树的最大深度 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1tF411v7h8?spm_id_from=333.999.0.0)
+  - [x] 面试题 04.05. 合法二叉搜索树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1nT4y1m7dK?spm_id_from=333.999.0.0)
+  - [x] 230. 二叉搜索树中第 K 小的元素 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/03.js) [B 站地址](https://www.bilibili.com/video/BV18S4y1Z7f8?spm_id_from=333.999.0.0)
+  - [x] 199. 二叉树的右视图 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/04.js) [B 站地址](https://www.bilibili.com/video/BV1SY41187XW?spm_id_from=333.999.0.0)
 - 09 算法训练
   - [x] 1753. 移除石子的最大得分 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-09algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1AS4y1j7qd?spm_id_from=333.999.0.0)
   - [x] 264. 丑数 II [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-09algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1pT4y1m7Hx?spm_id_from=333.999.0.0)
