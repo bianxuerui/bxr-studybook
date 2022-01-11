@@ -6,6 +6,9 @@
 
 **一月**
 
+- 11 算法训练
+  - [x] 100. 相同的树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-11algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1va411q7qW?spm_id_from=333.999.0.0)
+  - [x] 101. 对称二叉树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-11algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV16q4y1w7Nh?spm_id_from=333.999.0.0)
 - 10 算法训练
   - [x] 104. 二叉树的最大深度 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1tF411v7h8?spm_id_from=333.999.0.0)
   - [x] 面试题 04.05. 合法二叉搜索树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-10algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1nT4y1m7dK?spm_id_from=333.999.0.0)
