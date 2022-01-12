@@ -6,6 +6,9 @@
 
 **一月**
 
+- 12 算法训练
+  - [x] 124. 二叉树中的最大路径和 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-12algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1QS4y1Z7XT?spm_id_from=333.999.0.0)
+  - [x] 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-12algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1HL4y1b7tK?spm_id_from=333.999.0.0)
 - 11 算法训练
   - [x] 100. 相同的树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-11algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1va411q7qW?spm_id_from=333.999.0.0)
   - [x] 101. 对称二叉树 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-11algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV16q4y1w7Nh?spm_id_from=333.999.0.0)
