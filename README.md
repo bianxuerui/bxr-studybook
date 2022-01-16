@@ -6,6 +6,8 @@
 
 **一月**
 
+- 15 算法训练
+  - [x] 973. 最接近原点的 K 个点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-15algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1h34y1B7Xi?spm_id_from=333.999.0.0)
 - 12 算法训练
   - [x] 124. 二叉树中的最大路径和 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-12algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1QS4y1Z7XT?spm_id_from=333.999.0.0)
   - [x] 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-12algorithm/02.js) [B 站地址](https://www.bilibili.com/video/BV1HL4y1b7tK?spm_id_from=333.999.0.0)
