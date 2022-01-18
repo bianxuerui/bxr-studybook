@@ -6,6 +6,8 @@
 
 **一月**
 
+- 16 算法训练
+  - [x] 451. 根据字符出现频率排序 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-16algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1vq4y1A7w2?spm_id_from=333.999.0.0)
 - 15 算法训练
   - [x] 973. 最接近原点的 K 个点 [Git 地址](https://github.com/BianXuerui/myLearn/blob/main/01-15algorithm/01.js) [B 站地址](https://www.bilibili.com/video/BV1h34y1B7Xi?spm_id_from=333.999.0.0)
 - 12 算法训练
